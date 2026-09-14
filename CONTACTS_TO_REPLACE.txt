@@ -1,0 +1,11 @@
+AURA ENERGY MYANMAR — BEFORE GO-LIVE
+Replace these placeholders in src/main.jsx:
+1. Phone: +95 9 XXX XXX XXX
+2. Viber: +95 9 XXX XXX XXX
+3. Telegram: @AURAENERGYMYANMAR
+4. Email: sales@auraenergy.com.mm
+5. Address: Yangon, Myanmar
+6. Facebook URL: https://www.facebook.com/
+
+Also verify every product code marked "Confirm" against the latest DAPA/SOFAR supplier datasheet.
+The quote form is front-end only in this first version; connect it to Firebase/CRM/email before publishing.
